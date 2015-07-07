@@ -1,0 +1,55 @@
+Symbols
+
+=	equal
+!=	not equal
+<	smaller than
+>	bigger than
+<=	smaller and equal than
+>=	bigger and equal than
+
+NOT
+
+True 	False
+False	True
+
+OR
+
+True or False	True
+True or True	True
+False or True	True
+False or False	False	
+
+AND
+
+True and False	False
+True and True	True
+False and True	False
+False and False	False
+
+NOT or
+
+NOT (True or False)		False
+NOT (True or True)		False
+NOT (False or True)		False
+NOT (False or False)	True
+
+NOT and
+
+NOT (True and False)	True
+NOT (True and True)		False
+NOT (False and True)	True
+NOT (False and False)	True
+
+!=
+
+1 != 0	True
+1 != 1	False
+0 != 1	True
+0 != 0	False
+
+==
+
+1 == 0	False
+1 == 1	True
+0 == 1	False
+0 == 0	True

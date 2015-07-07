@@ -1,0 +1,31 @@
+=			..sets a variable as a string/value
+""			..defines a string as in print "python"
+''			..defines a string as in print 'python'
+""""""		..defines a string that can go over multiple lines, as in print """python"""
+%			..formatter as in %s, %d, %r, can be used in text and defined next to it by e.g. % (python, python_1, ..)
+from		..defines a module that will be imported from
+import		..can be used in conjunction with "from" to import a specific function or a whole module can be imported
+#			..everything after this character will be ignored by python
+=+			..variable is equal to variable + number/string/etc
+=-			..variable is equal to variable - number/string/etc
+=*			..variable is equal to variable * number/string/etc
+=/			..variable is equal to variable / number/string/etc
+argv		..function from module sys that can be set as multiple variables which will be required as input in the console
+def():		..define a function with n variables e.g. def(a, b):
+return		..returning a result
++			..addition
+-			..subtraction
+*			..multiplication
+/			..division
+//			..floor division
+\n			..new line
+\\			..backslash
+<			..less than
+>			..greater than
+<=			..less than equal
+>=			..greater than equal
+==			..equal
+open()		..opens a file, can be assigned to a variable which then has executable functions e.g. python.read(), python.readline()
+raw_input()	..user input is required, can be assigned to a variable and string can be included e.g. python = raw_input("Name of this software:")
+\			..escape the following character, e.g. 'This isn\'t easy'
+\t			..tab

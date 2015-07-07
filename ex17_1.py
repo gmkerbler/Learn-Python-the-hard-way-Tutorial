@@ -1,0 +1,1 @@
+from sys import argv; import os; script, from_file, to_file = argv; in_file = open(from_file).read(); print "Length: %d" % len(in_file); os.path.exists(to_file); out_file = open(to_file, 'w'); out_file.write(in_file)
