@@ -1,3 +1,3 @@
 # Learning Python the hard way!
 
-This repository includes the exercises I did following the famous tutorial to learn Python.
+This repository includes the exercises I did following the famous tutorial to learn basic Python
